@@ -1,6 +1,6 @@
 <h1>ALURA PLUS</h1>
 
-![curso alura 1](https://user-images.githubusercontent.com/113468784/189997630-dc8e711e-fcd9-4f9d-b26a-aa99d6abe989.png)
+![alura plus img](https://user-images.githubusercontent.com/113468784/189999119-323006bc-2cd6-4734-a5f4-2d0929c6911c.png)
 
 > status: Developing 
 
