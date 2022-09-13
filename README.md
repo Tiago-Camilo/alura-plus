@@ -1,10 +1,10 @@
 <h1>ALURA PLUS</h1>
 
-![aaaa](https://user-images.githubusercontent.com/113468784/189992696-686e476e-8cfe-47a9-8f41-4aae4db15d4d.png)
+![curso alura 1](https://user-images.githubusercontent.com/113468784/189997630-dc8e711e-fcd9-4f9d-b26a-aa99d6abe989.png)
 
 > status: Developing 
 
-<h2>DESCRIÇÃ´DO PROJETO</h2>
+<h2>DESCRIÇÃO DO PROJETO</h2>
 <p>Essa é a 'landing page' do 'Alura plus', contento as informações de cada plano, valores e como assinar cada um deles ou todos.
 
 Essa página foi desenvolvida durante o curso de 'HTML e CSS: praticando HTML/CSS' da escola de tecnologia Alura.</p>
