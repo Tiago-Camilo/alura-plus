@@ -14,11 +14,6 @@ Essa página foi desenvolvida durante o curso de 'HTML e CSS: praticando HTML/CS
 ![html](https://user-images.githubusercontent.com/113468784/189993305-270b0310-c2c5-4da3-a180-f07a0d537cab.svg)
 ![css](https://user-images.githubusercontent.com/113468784/189993320-a1ae3296-0856-4389-adc0-3a3023fc9931.svg)
 
-<h4>O QUE APRENDI</h4>
-<UL> 
-<LI>A identificar elementos e estilos no design do Figma;</LI>
-<LI>Realizar o deploy do site através do Github Pages.</LI>
-</UL>
 
 <H5>ACESSE O PROJETO</H5>
 <p><a href="https://tiago-camilo.github.io/alura-plus/" >acessar por aqui </a></p>
